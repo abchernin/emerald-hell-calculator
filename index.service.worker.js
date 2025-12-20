@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1762377326|1762545067';
+const CACHE_VERSION = '1766231017|143250812';
 /** @type {string} */
 const CACHE_PREFIX = 'GURPS Emerald He-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
